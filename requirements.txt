@@ -1,0 +1,5 @@
+--index-url https://pypi.python.org/simple/
+
+-e .
+py==1.4.32
+pytest==3.0.6
